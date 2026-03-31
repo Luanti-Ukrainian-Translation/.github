@@ -1,1 +1,3 @@
-**Слава Україні! 🇺🇦**
+*«Український Переклад Луанті»* — це організація, що займається перекладом Luanti на українську мову, зокрема його складників, модифікацій й ігор у ContentDB, довідкових матеріалів та посібників. Метою організації є сприяння розвитку проєкту та впровадження української мови у простір програмування та ігор.
+
+*"Luanti Ukrainian Translation"* — is an organization dedicated to translating Luanti into the Ukrainian language. This includes its components, mods and games within ContentDB, as well as reference materials and manuals. The organization aims to foster the project's development and integrate the Ukrainian language into the programming and gaming landscape.
